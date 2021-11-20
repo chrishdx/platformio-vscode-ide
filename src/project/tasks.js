@@ -6,7 +6,7 @@
  * the root directory of this source tree.
  */
 
-import * as pioNodeHelpers from 'platformio-node-helpers';
+import * as pioNodeHelpers from '@chrishdx/platformio-node-helpers';
 
 import { IS_WINDOWS } from '../constants';
 import ProjectTasksTreeProvider from './task-tree';
